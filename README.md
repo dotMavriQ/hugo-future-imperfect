@@ -1,4 +1,4 @@
-# Hugo Future Imperfect
+# Vimperfect
 
 Future Imperfect is a responsive theme tailored for blogging. The name is of no
 coincidence, because it is a port of [HTML5 UP's theme](http://html5up.net/future-imperfect)
