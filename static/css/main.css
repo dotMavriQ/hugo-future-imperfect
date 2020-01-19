@@ -1,13 +1,13 @@
-@import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+/*@import url(font-awesome.min.css);*/
+/*@import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900");*/
 
 /*
 	ViMPerfect by dotMavriq
-	dotmavriq.life | @dotmavriq
+	dotmavriq.lfie | @dotmavriq
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 	Modified/Cleaned for use with Hugo-Future-Imperfect Theme
-	gohugo.io | @pacollins 4
+	gohugo.io | @pacollins
 */
 
 /* Reset */
@@ -55,7 +55,7 @@
 	}
 
 	header p {
-		font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.7em;
 		font-weight: 400;
 		letter-spacing: 0.25em;
@@ -195,7 +195,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3c3b3b;
-		font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+		font-family: "Raleway", Helvetica, sans-serif;
 		font-weight: 800;
 		letter-spacing: 0.25em;
 		line-height: 1.65;
@@ -323,7 +323,7 @@
 		-ms-justify-content: -ms-flex-end;
 		justify-content: flex-end;
 		border-bottom: 0;
-		font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.6em;
 		font-weight: 400;
 		letter-spacing: 0.25em;
@@ -390,7 +390,7 @@
 		color: #3c3b3b;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.6em;
 		font-weight: 800;
 		height: 4.8125em;
@@ -1124,7 +1124,7 @@
 
 					ul.posts article header .published {
 						display: block;
-						font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+						font-family: "Raleway", Helvetica, sans-serif;
 						font-size: 0.6em;
 						font-weight: 400;
 						letter-spacing: 0.25em;
@@ -1206,7 +1206,7 @@
 
 			.mini-post header .published {
 				display: block;
-				font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+				font-family: "Raleway", Helvetica, sans-serif;
 				font-size: 0.6em;
 				font-weight: 400;
 				letter-spacing: 0.25em;
@@ -1330,7 +1330,7 @@
 				.post > header .meta .published {
 					color: #3c3b3b;
 					display: block;
-					font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.7em;
 					font-weight: 800;
 					letter-spacing: 0.25em;
@@ -1408,7 +1408,7 @@
 				.post > footer .stats li ul li {
 					border-left: solid 1px rgba(160, 160, 160, 0.3);
 					display: inline-block;
-					font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.6em;
 					font-weight: 400;
 					letter-spacing: 0.25em;
@@ -1656,7 +1656,7 @@
 					.itemized > header .meta .published {
 						color: #3c3b3b;
 						display: block;
-						font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+						font-family: "Raleway", Helvetica, sans-serif;
 						font-size: 0.7em;
 						font-weight: 800;
 						letter-spacing: 0.25em;
@@ -1710,7 +1710,7 @@
 					.itemized > footer .stats li {
 						border-left: solid 1px rgba(160, 160, 160, 0.3);
 						display: inline-block;
-						font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+						font-family: "Raleway", Helvetica, sans-serif;
 						font-size: 0.6em;
 						font-weight: 400;
 						letter-spacing: 0.25em;
@@ -2289,7 +2289,7 @@
 
 				#header .links ul li a {
 					border-bottom: 0;
-					font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.7em;
 					font-weight: 400;
 					letter-spacing: 0.25em;
@@ -2665,7 +2665,7 @@
 	#footer .copyright {
 		text-align: center;
 		color: #aaaaaa;
-		font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.5em;
 		font-weight: 400;
 		letter-spacing: 0.25em;
@@ -2756,7 +2756,7 @@
 					}
 
 					#menu .links > li a p {
-						font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+						font-family: "Raleway", Helvetica, sans-serif;
 						font-size: 0.6em;
 						font-weight: 400;
 						letter-spacing: 0.25em;
@@ -2938,7 +2938,7 @@
 						}
 
 						#share-menu .links > li a p {
-							font-family: "FjallaOne-Regular", Helvetica, sans-serif;
+							font-family: "Raleway", Helvetica, sans-serif;
 							font-size: 0.6em;
 							font-weight: 400;
 							letter-spacing: 0.25em;
