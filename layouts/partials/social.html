@@ -10,6 +10,11 @@
   <li><a href="//stackoverflow.com/users/{{.}}" target="_blank" title="Stack Overflow" class="fa fa-stack-overflow"></a></li>
 {{ end }}
 
+{{ with .Site.Social.keybase }}
+  <li><a href="//keybase.io/{{.}}" target="_blank" title="Keybase" class="fab fa-keybase"></a></li>
+{{ end }}
+
+
 {{ with .Site.Social.bitbucket }}
   <li><a href="//bitbucket.com/{{.}}" target="_blank" title="Bitbucket" class="fa fa-bitbucket"></a></li>
 {{ end }}
